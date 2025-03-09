@@ -36,4 +36,4 @@ Durante o desenvolvimento deste projeto, foram praticados conceitos como:
 
 ## 🌟 Visualização
 
-![Preview do Projeto](https://s3.gifyu.com/images/bbcJ7.gif)
+![Preview do Projeto](https://s3.gifyu.com/images/bb6Ww.gif)
